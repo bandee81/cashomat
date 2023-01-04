@@ -1,0 +1,19 @@
+atm:
+  cassettes:
+    cst_1_20000:
+      banknote: 20000
+      maxCapacity: 5
+    cst_2_20000:
+      banknote: 20000
+      maxCapacity: 5
+    cst_3_10000:
+      banknote: 10000
+      maxCapacity: 5
+    cst_4_1000:
+      banknote: 10000
+      maxCapacity: 5
+    cst_5_1000:
+      banknote: 1000
+      maxCapacity: 5
+
+
